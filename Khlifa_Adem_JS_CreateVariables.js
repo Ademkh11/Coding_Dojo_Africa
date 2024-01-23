@@ -1,6 +1,6 @@
 var minimum_age = 10;
 var minimum_height = 42;
-if(minimum_height=>42,minimum_age=>10){
+if(varminimum_height=>42,varminimum_age=>10){
     console.log("Get on that ride,kiddo!");
 }
 else{
